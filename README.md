@@ -4,7 +4,7 @@
 This project demonstrates an end-to-end Business Intelligence workflow using Microsoft Power BI to analyze hotel booking data and generate actionable performance insights.
 The objective was to transform raw operational data into a structured data model and an interactive dashboard that supports hotel management decision-making.
 
-##🎯 Business Problem
+## 🎯 Business Problem
 
 Hotel management teams need visibility into:
 1. Revenue performance
