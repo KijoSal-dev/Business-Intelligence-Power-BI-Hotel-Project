@@ -16,7 +16,7 @@ Without structured reporting, it becomes difficult to monitor KPIs and make stra
 
 ## Overview
 *Dashboard Overview*
-![overview](Screenshot 2026-04-03 114451.png)
+![overview](overview.png.png)
 
 
 ## 🛠️ Solution Approach
