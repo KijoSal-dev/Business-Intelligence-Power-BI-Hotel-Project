@@ -15,6 +15,7 @@ Hotel management teams need visibility into:
 Without structured reporting, it becomes difficult to monitor KPIs and make strategic decisions.
 
 ## Overview
+*Dashboard Overview*
 ![overview](Screenshot 2026-04-03 114451.png)
 
 
