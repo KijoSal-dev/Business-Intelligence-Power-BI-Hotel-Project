@@ -14,6 +14,10 @@ Hotel management teams need visibility into:
 5. Time-based performance comparisons
 Without structured reporting, it becomes difficult to monitor KPIs and make strategic decisions.
 
+## Overview
+![overview](Screenshot 2026-04-03 114451.png)
+
+
 ## 🛠️ Solution Approach
 1️⃣ Data Preparation (Power Query)
 Cleaned and transformed multiple datasets
