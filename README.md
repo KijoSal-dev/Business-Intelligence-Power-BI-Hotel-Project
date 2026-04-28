@@ -1,4 +1,6 @@
 # Business-Intelligence-Power-BI-Hotel-Project
+Interactive Power BI dashboard analyzing hotel occupancy, revenue, and booking trends.
+
 ## 📌 Project Summary
 
 This project demonstrates an end-to-end Business Intelligence workflow using Microsoft Power BI to analyze hotel booking data and generate actionable performance insights.
